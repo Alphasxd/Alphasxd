@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang
 - ⚡ Fun fact: Nolan movies
 
-![Sheldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=vue-dark&hide=contribs,prs&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphasxd&layout=compact&theme=vue-dark)
