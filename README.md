@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Golang
+- ⚡ Fun fact: Nolan movies
+
+![Sheldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=vue-dark&hide=contribs,prs&show_icons=true)
