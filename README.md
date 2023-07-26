@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang
 - ⚡ Fun fact: Nolan movies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphasxd&layout=compact&theme=vue-dark)
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=vue-dark&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphasxd&theme=vue-dark&layout=compact" />
+</div>
