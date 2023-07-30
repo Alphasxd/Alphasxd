@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Nolan movies
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=vue-dark&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphasxd&theme=vue-dark&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=material-palenight&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphasxd&theme=material-palenight&layout=compact" />
 </div>
 
 <picture>
