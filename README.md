@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Golang
-- ⚡ Fun fact: Nolan movies
+- 🌱 Gopher
+- ⚡ Nolan movies fans
+- 👾 Linux 
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=material-palenight&show_icons=true" />
