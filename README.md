@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Gopher
-- ⚡ Nolan movies fans
+- ⚡ Quentin Tarantino Movies Fans
 - 👾 Linux 
 
 <div>
