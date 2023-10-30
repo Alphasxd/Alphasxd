@@ -8,7 +8,9 @@
 
 - 🌱 Gopher
 - ⚡ Quentin Tarantino Movies Fans
-- 👾 Linux 
+- 👾 Linux
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alphasxd/Alphasxd/output/github-contribution-grid-snake-dark.svg">
