@@ -26,4 +26,5 @@
 ---
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
+[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](#)
 [![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
