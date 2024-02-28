@@ -6,10 +6,9 @@
 
 <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=material-palenight&show_icons=true" />
 
-- 🌱 Gopher
-- 👾 Linux
-- 🎈 Hallelujah!
-- ⚡ Quentin Tarantino Movies Fans
+- 🌱 Gopher, Pythonista
+- 👾 Linux, Hackintosh, Windows
+- 🎈 Quentin Tarantino Movies Fans
 
 ### Personal blog
 
