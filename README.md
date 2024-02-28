@@ -25,6 +25,7 @@
 
 ---
 
-[![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
-[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](#)
-[![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
+[![](https://img.shields.io/badge/Golang-1E90FF?logo=go&logoColor=white)](#)
+[![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](#)
+[![](https://img.shields.io/badge/vue-4FC08D?logo=Vue.js&logoColor=white)](#)
+[![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](#)
