@@ -18,13 +18,19 @@
 
 ---
 
+</br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alphasxd/Alphasxd/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alphasxd/Alphasxd/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alphasxd/Alphasxd/output/github-contribution-grid-snake.svg">
 </picture>
 
+</br>
+
 ---
+
+</br>
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=for-the-badge&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
