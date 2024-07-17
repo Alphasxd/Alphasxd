@@ -14,6 +14,8 @@
 - 📖 Differential Privacy
 - 🎰 Contextual Bandits
 
+</br>
+
 ---
 
 <picture>
