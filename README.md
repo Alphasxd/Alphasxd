@@ -12,7 +12,7 @@
 
 ### Personal blog
 
-👺[Debug The World](https://alphasxd.me)
+[👺](https://alphasxd.pages.dev)
 
 ---
 
