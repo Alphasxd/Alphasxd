@@ -4,7 +4,7 @@
 **Alphasxd/Alphasxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=github_dark_dimmed&show_icons=true" />
+<img height="155" align="right" src="https://github-readme-stats.vercel.app/api?username=Alphasxd&theme=github_dark_dimmed&show_icons=true" />
 
 </br>
 
